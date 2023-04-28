@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Test for Square"""
+"""Testing my for Square"""
 
 import os
 import unittest
