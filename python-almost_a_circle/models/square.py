@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Create a Square class for the work"""
+"""Create a Square my class for the work"""
 
 
 from models.rectangle import Rectangle
