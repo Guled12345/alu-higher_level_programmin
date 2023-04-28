@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Rectangle Instance classes"""
+"""Rectangle Instance my classes"""
 
 from models.base import Base
 
