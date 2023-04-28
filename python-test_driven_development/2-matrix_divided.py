@@ -3,7 +3,7 @@
 
 
 def matrix_divided(matrix, div):
-    """"Function documentation"""
+    """"Function --  """
     if not isinstance(matrix, (list,)):
         raise TypeError("matrix must be a matrix "
                         "(list of lists) of integers/floats")

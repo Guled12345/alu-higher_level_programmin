@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""module documentation"""
+"""module --  """
 import numpy as np
 
 

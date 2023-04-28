@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""""Module documentation"""
+""""Module --  """
 
 
 def text_indentation(text):
-    """function documentation"""
+    """function --  """
     if type(text) is not str:
         raise TypeError("text must be a string")
 
